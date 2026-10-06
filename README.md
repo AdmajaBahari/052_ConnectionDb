@@ -61,8 +61,8 @@ VALUES ('Admaja Bahari', '20230140052', 'E');
 
 ### Data pada tabel `biodata` di pgAdmin
 
-![Data di pgAdmin](src/NAMA_FILE_PGADMIN.png)
+![Data di pgAdmin](src/pgadmin.png)
 
 ### Hasil GET di Postman
 
-![Hasil GET di Postman](src/NAMA_FILE_POSTMAN.png)
+![Hasil GET di Postman](src/postman-get.png)
